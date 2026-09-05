@@ -7,7 +7,7 @@ from PyQt6.QtCore import QTranslator, QLocale, QLibraryInfo
 
 from ui import SettingsWindow
 
-APP_VERSION = "25.12"
+APP_VERSION = "26.09"
 
 def main():
 
